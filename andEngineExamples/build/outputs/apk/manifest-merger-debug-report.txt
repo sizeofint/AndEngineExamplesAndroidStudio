@@ -1,0 +1,670 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:2
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:2
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:2
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineAugmentedRealityExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineMODPlayerExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineSVGTextureRegionExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEnginePhysicsBox2DExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineTexturePackerExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineMultiplayerExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineLiveWallpaperExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineTMXTiledMapExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineScriptingExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineDebugDrawExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEnginePhysicsBox2DExtension:unspecified:7:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:7:38
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:12
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-feature#0x00020000
+ADDED from AndroidManifest.xml:9:2
+	android:required
+		ADDED from AndroidManifest.xml:9:49
+	android:glEsVersion
+		ADDED from AndroidManifest.xml:9:16
+uses-feature#android.hardware.touchscreen
+ADDED from AndroidManifest.xml:10:2
+	android:required
+		ADDED from AndroidManifest.xml:10:60
+	android:name
+		ADDED from AndroidManifest.xml:10:16
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:12:2
+	android:name
+		ADDED from AndroidManifest.xml:12:19
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:13:2
+	android:name
+		ADDED from AndroidManifest.xml:13:19
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from AndroidManifest.xml:14:2
+	android:name
+		ADDED from AndroidManifest.xml:14:19
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:15:2
+	android:name
+		ADDED from AndroidManifest.xml:15:19
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:16:2
+	android:name
+		ADDED from AndroidManifest.xml:16:19
+uses-permission#android.permission.CAMERA
+ADDED from AndroidManifest.xml:17:2
+	android:name
+		ADDED from AndroidManifest.xml:17:19
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:18:2
+	android:name
+		ADDED from AndroidManifest.xml:18:19
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:19:2
+	android:name
+		ADDED from AndroidManifest.xml:19:19
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:20:2
+	android:name
+		ADDED from AndroidManifest.xml:20:19
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from AndroidManifest.xml:21:2
+	android:name
+		ADDED from AndroidManifest.xml:21:19
+application
+ADDED from AndroidManifest.xml:23:2
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEnginePhysicsBox2DExtension:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineTMXTiledMapExtension:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngineDebugDrawExtension:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEnginePhysicsBox2DExtension:unspecified:11:5
+MERGED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:5
+	android:debuggable
+		ADDED from AndEngineExamplesAndroidStudio:andEngine:unspecified:11:18
+	android:label
+		ADDED from AndroidManifest.xml:23:45
+	android:icon
+		ADDED from AndroidManifest.xml:23:15
+activity#org.andengine.examples.launcher.ExampleLauncher
+ADDED from AndroidManifest.xml:24:3
+	android:label
+		ADDED from AndroidManifest.xml:24:54
+	android:name
+		ADDED from AndroidManifest.xml:24:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:25:4
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:26:5
+	android:name
+		ADDED from AndroidManifest.xml:26:13
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:15
+activity#org.andengine.examples.util.BluetoothListDevicesActivity
+ADDED from AndroidManifest.xml:30:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:30:63
+	android:theme
+		ADDED from AndroidManifest.xml:30:99
+	android:name
+		ADDED from AndroidManifest.xml:30:13
+activity#org.andengine.examples.AnalogOnScreenControlExample
+ADDED from AndroidManifest.xml:32:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:32:58
+	android:name
+		ADDED from AndroidManifest.xml:32:13
+activity#org.andengine.examples.AnalogOnScreenControlsExample
+ADDED from AndroidManifest.xml:33:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:33:59
+	android:name
+		ADDED from AndroidManifest.xml:33:13
+activity#org.andengine.examples.AnimatedSpritesExample
+ADDED from AndroidManifest.xml:34:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:34:52
+	android:name
+		ADDED from AndroidManifest.xml:34:13
+activity#org.andengine.examples.AugmentedRealityExample
+ADDED from AndroidManifest.xml:35:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:35:53
+	android:name
+		ADDED from AndroidManifest.xml:35:13
+activity#org.andengine.examples.AugmentedRealityHorizonExample
+ADDED from AndroidManifest.xml:36:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:36:60
+	android:name
+		ADDED from AndroidManifest.xml:36:13
+activity#org.andengine.examples.AutoParallaxBackgroundExample
+ADDED from AndroidManifest.xml:37:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:37:59
+	android:name
+		ADDED from AndroidManifest.xml:37:13
+activity#org.andengine.examples.BitmapFontExample
+ADDED from AndroidManifest.xml:38:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:38:47
+	android:name
+		ADDED from AndroidManifest.xml:38:13
+activity#org.andengine.examples.BoundCameraExample
+ADDED from AndroidManifest.xml:39:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:39:48
+	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#org.andengine.examples.CanvasTextureCompositingExample
+ADDED from AndroidManifest.xml:40:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:40:61
+	android:name
+		ADDED from AndroidManifest.xml:40:13
+activity#org.andengine.examples.CardinalSplineMoveModifierExample
+ADDED from AndroidManifest.xml:41:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:41:63
+	android:name
+		ADDED from AndroidManifest.xml:41:13
+activity#org.andengine.examples.ChangeableTextExample
+ADDED from AndroidManifest.xml:42:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:42:51
+	android:name
+		ADDED from AndroidManifest.xml:42:13
+activity#org.andengine.examples.CollisionDetectionExample
+ADDED from AndroidManifest.xml:43:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:43:55
+	android:name
+		ADDED from AndroidManifest.xml:43:13
+activity#org.andengine.examples.ColorKeyTextureSourceDecoratorExample
+ADDED from AndroidManifest.xml:44:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:44:67
+	android:name
+		ADDED from AndroidManifest.xml:44:13
+activity#org.andengine.examples.CoordinateConversionExample
+ADDED from AndroidManifest.xml:45:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:45:57
+	android:name
+		ADDED from AndroidManifest.xml:45:13
+activity#org.andengine.examples.CustomFontExample
+ADDED from AndroidManifest.xml:46:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:46:47
+	android:name
+		ADDED from AndroidManifest.xml:46:13
+activity#org.andengine.examples.DigitalOnScreenControlExample
+ADDED from AndroidManifest.xml:47:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:47:59
+	android:name
+		ADDED from AndroidManifest.xml:47:13
+activity#org.andengine.examples.EaseFunctionExample
+ADDED from AndroidManifest.xml:48:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:48:49
+	android:name
+		ADDED from AndroidManifest.xml:48:13
+activity#org.andengine.examples.EntityModifierExample
+ADDED from AndroidManifest.xml:49:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:49:51
+	android:name
+		ADDED from AndroidManifest.xml:49:13
+activity#org.andengine.examples.EntityModifierIrregularExample
+ADDED from AndroidManifest.xml:50:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:50:60
+	android:name
+		ADDED from AndroidManifest.xml:50:13
+activity#org.andengine.examples.ETC1TextureExample
+ADDED from AndroidManifest.xml:51:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:51:48
+	android:name
+		ADDED from AndroidManifest.xml:51:13
+activity#org.andengine.examples.HullAlgorithmExample
+ADDED from AndroidManifest.xml:52:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:52:50
+	android:name
+		ADDED from AndroidManifest.xml:52:13
+activity#org.andengine.examples.ImageFormatsExample
+ADDED from AndroidManifest.xml:53:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:53:49
+	android:name
+		ADDED from AndroidManifest.xml:53:13
+activity#org.andengine.examples.LevelLoaderExample
+ADDED from AndroidManifest.xml:54:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:54:48
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+activity#org.andengine.examples.LineExample
+ADDED from AndroidManifest.xml:55:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:55:41
+	android:name
+		ADDED from AndroidManifest.xml:55:13
+activity#org.andengine.examples.LoadTextureExample
+ADDED from AndroidManifest.xml:56:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:56:48
+	android:name
+		ADDED from AndroidManifest.xml:56:13
+activity#org.andengine.examples.MenuExample
+ADDED from AndroidManifest.xml:57:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:57:41
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#org.andengine.examples.ModPlayerExample
+ADDED from AndroidManifest.xml:58:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:58:46
+	android:name
+		ADDED from AndroidManifest.xml:58:13
+activity#org.andengine.examples.MotionStreakExample
+ADDED from AndroidManifest.xml:59:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:59:49
+	android:name
+		ADDED from AndroidManifest.xml:59:13
+activity#org.andengine.examples.MovingBallExample
+ADDED from AndroidManifest.xml:60:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:60:47
+	android:name
+		ADDED from AndroidManifest.xml:60:13
+activity#org.andengine.examples.MultiplayerExample
+ADDED from AndroidManifest.xml:61:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:61:48
+	android:name
+		ADDED from AndroidManifest.xml:61:13
+activity#org.andengine.examples.MultiplayerServerDiscoveryExample
+ADDED from AndroidManifest.xml:62:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:62:63
+	android:name
+		ADDED from AndroidManifest.xml:62:13
+activity#org.andengine.examples.MultiplayerBluetoothExample
+ADDED from AndroidManifest.xml:63:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:63:57
+	android:name
+		ADDED from AndroidManifest.xml:63:13
+activity#org.andengine.examples.MultiTouchExample
+ADDED from AndroidManifest.xml:64:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:64:47
+	android:name
+		ADDED from AndroidManifest.xml:64:13
+activity#org.andengine.examples.MusicExample
+ADDED from AndroidManifest.xml:65:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:65:42
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+activity#org.andengine.examples.ParticleSystemCoolExample
+ADDED from AndroidManifest.xml:66:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:66:55
+	android:name
+		ADDED from AndroidManifest.xml:66:13
+activity#org.andengine.examples.ParticleSystemNexusExample
+ADDED from AndroidManifest.xml:67:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:67:56
+	android:name
+		ADDED from AndroidManifest.xml:67:13
+activity#org.andengine.examples.ParticleSystemSimpleExample
+ADDED from AndroidManifest.xml:68:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:68:57
+	android:name
+		ADDED from AndroidManifest.xml:68:13
+activity#org.andengine.examples.PathModifierExample
+ADDED from AndroidManifest.xml:69:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:69:49
+	android:name
+		ADDED from AndroidManifest.xml:69:13
+activity#org.andengine.examples.PauseExample
+ADDED from AndroidManifest.xml:70:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:70:42
+	android:name
+		ADDED from AndroidManifest.xml:70:13
+activity#org.andengine.examples.PhysicsCollisionFilteringExample
+ADDED from AndroidManifest.xml:71:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:71:62
+	android:name
+		ADDED from AndroidManifest.xml:71:13
+activity#org.andengine.examples.PhysicsExample
+ADDED from AndroidManifest.xml:72:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:72:44
+	android:name
+		ADDED from AndroidManifest.xml:72:13
+activity#org.andengine.examples.PhysicsFixedStepExample
+ADDED from AndroidManifest.xml:73:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:73:53
+	android:name
+		ADDED from AndroidManifest.xml:73:13
+activity#org.andengine.examples.PhysicsJumpExample
+ADDED from AndroidManifest.xml:74:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:74:48
+	android:name
+		ADDED from AndroidManifest.xml:74:13
+activity#org.andengine.examples.PhysicsRemoveExample
+ADDED from AndroidManifest.xml:75:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:75:50
+	android:name
+		ADDED from AndroidManifest.xml:75:13
+activity#org.andengine.examples.PhysicsRevoluteJointExample
+ADDED from AndroidManifest.xml:76:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:76:57
+	android:name
+		ADDED from AndroidManifest.xml:76:13
+activity#org.andengine.examples.PhysicsMouseJointExample
+ADDED from AndroidManifest.xml:77:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:77:54
+	android:name
+		ADDED from AndroidManifest.xml:77:13
+activity#org.andengine.examples.PinchZoomExample
+ADDED from AndroidManifest.xml:78:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:78:46
+	android:name
+		ADDED from AndroidManifest.xml:78:13
+activity#org.andengine.examples.PVRCCZTextureExample
+ADDED from AndroidManifest.xml:79:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:79:50
+	android:name
+		ADDED from AndroidManifest.xml:79:13
+activity#org.andengine.examples.PVRGZTextureExample
+ADDED from AndroidManifest.xml:80:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:80:49
+	android:name
+		ADDED from AndroidManifest.xml:80:13
+activity#org.andengine.examples.PVRTextureExample
+ADDED from AndroidManifest.xml:81:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:81:47
+	android:name
+		ADDED from AndroidManifest.xml:81:13
+activity#org.andengine.examples.RadialBlurExample
+ADDED from AndroidManifest.xml:82:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:82:47
+	android:name
+		ADDED from AndroidManifest.xml:82:13
+activity#org.andengine.examples.RectangleExample
+ADDED from AndroidManifest.xml:83:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:83:46
+	android:name
+		ADDED from AndroidManifest.xml:83:13
+activity#org.andengine.examples.RepeatingSpriteBackgroundExample
+ADDED from AndroidManifest.xml:84:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:84:62
+	android:name
+		ADDED from AndroidManifest.xml:84:13
+activity#org.andengine.examples.Rotation3DExample
+ADDED from AndroidManifest.xml:85:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:85:47
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+activity#org.andengine.examples.RunnablePoolUpdateHandlerExample
+ADDED from AndroidManifest.xml:86:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:86:62
+	android:name
+		ADDED from AndroidManifest.xml:86:13
+activity#org.andengine.examples.ScreenCaptureExample
+ADDED from AndroidManifest.xml:87:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:87:50
+	android:name
+		ADDED from AndroidManifest.xml:87:13
+activity#org.andengine.examples.SoundExample
+ADDED from AndroidManifest.xml:88:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:88:42
+	android:name
+		ADDED from AndroidManifest.xml:88:13
+activity#org.andengine.examples.SplitScreenExample
+ADDED from AndroidManifest.xml:89:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:89:48
+	android:name
+		ADDED from AndroidManifest.xml:89:13
+activity#org.andengine.examples.SpriteBatchExample
+ADDED from AndroidManifest.xml:90:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:90:48
+	android:name
+		ADDED from AndroidManifest.xml:90:13
+activity#org.andengine.examples.SpriteExample
+ADDED from AndroidManifest.xml:91:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:91:43
+	android:name
+		ADDED from AndroidManifest.xml:91:13
+activity#org.andengine.examples.SpriteRemoveExample
+ADDED from AndroidManifest.xml:92:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:92:49
+	android:name
+		ADDED from AndroidManifest.xml:92:13
+activity#org.andengine.examples.StrokeFontExample
+ADDED from AndroidManifest.xml:93:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:93:47
+	android:name
+		ADDED from AndroidManifest.xml:93:13
+activity#org.andengine.examples.SubMenuExample
+ADDED from AndroidManifest.xml:94:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:94:44
+	android:name
+		ADDED from AndroidManifest.xml:94:13
+activity#org.andengine.examples.SVGTextureRegionExample
+ADDED from AndroidManifest.xml:95:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:95:53
+	android:name
+		ADDED from AndroidManifest.xml:95:13
+activity#org.andengine.examples.TextExample
+ADDED from AndroidManifest.xml:96:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:96:41
+	android:name
+		ADDED from AndroidManifest.xml:96:13
+activity#org.andengine.examples.TextBreakExample
+ADDED from AndroidManifest.xml:97:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:97:46
+	android:name
+		ADDED from AndroidManifest.xml:97:13
+activity#org.andengine.examples.TextMenuExample
+ADDED from AndroidManifest.xml:98:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:98:45
+	android:name
+		ADDED from AndroidManifest.xml:98:13
+activity#org.andengine.examples.TextureOptionsExample
+ADDED from AndroidManifest.xml:99:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:99:51
+	android:name
+		ADDED from AndroidManifest.xml:99:13
+activity#org.andengine.examples.TexturePackerExample
+ADDED from AndroidManifest.xml:100:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:100:50
+	android:name
+		ADDED from AndroidManifest.xml:100:13
+activity#org.andengine.examples.TMXTiledMapExample
+ADDED from AndroidManifest.xml:101:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:101:48
+	android:name
+		ADDED from AndroidManifest.xml:101:13
+activity#org.andengine.examples.TickerTextExample
+ADDED from AndroidManifest.xml:102:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:102:47
+	android:name
+		ADDED from AndroidManifest.xml:102:13
+activity#org.andengine.examples.TouchDragExample
+ADDED from AndroidManifest.xml:103:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:103:46
+	android:name
+		ADDED from AndroidManifest.xml:103:13
+activity#org.andengine.examples.UnloadResourcesExample
+ADDED from AndroidManifest.xml:104:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:104:52
+	android:name
+		ADDED from AndroidManifest.xml:104:13
+activity#org.andengine.examples.UpdateTextureExample
+ADDED from AndroidManifest.xml:105:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:105:50
+	android:name
+		ADDED from AndroidManifest.xml:105:13
+activity#org.andengine.examples.XMLLayoutExample
+ADDED from AndroidManifest.xml:106:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:106:46
+	android:name
+		ADDED from AndroidManifest.xml:106:13
+activity#org.andengine.examples.ZoomExample
+ADDED from AndroidManifest.xml:107:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:107:41
+	android:name
+		ADDED from AndroidManifest.xml:107:13
+activity#org.andengine.examples.benchmark.AnimationBenchmark
+ADDED from AndroidManifest.xml:109:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:109:58
+	android:name
+		ADDED from AndroidManifest.xml:109:13
+activity#org.andengine.examples.benchmark.AttachDetachBenchmark
+ADDED from AndroidManifest.xml:110:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:110:61
+	android:name
+		ADDED from AndroidManifest.xml:110:13
+activity#org.andengine.examples.benchmark.ParticleSystemBenchmark
+ADDED from AndroidManifest.xml:111:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:111:63
+	android:name
+		ADDED from AndroidManifest.xml:111:13
+activity#org.andengine.examples.benchmark.PhysicsBenchmark
+ADDED from AndroidManifest.xml:112:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:112:56
+	android:name
+		ADDED from AndroidManifest.xml:112:13
+activity#org.andengine.examples.benchmark.EntityModifierBenchmark
+ADDED from AndroidManifest.xml:113:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:113:63
+	android:name
+		ADDED from AndroidManifest.xml:113:13
+activity#org.andengine.examples.benchmark.SpriteBenchmark
+ADDED from AndroidManifest.xml:114:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:114:55
+	android:name
+		ADDED from AndroidManifest.xml:114:13
+activity#org.andengine.examples.benchmark.TickerTextBenchmark
+ADDED from AndroidManifest.xml:115:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:115:59
+	android:name
+		ADDED from AndroidManifest.xml:115:13
+activity#org.andengine.examples.game.pong.PongGameActivity
+ADDED from AndroidManifest.xml:117:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:117:56
+	android:name
+		ADDED from AndroidManifest.xml:117:13
+activity#org.andengine.examples.game.snake.SnakeGameActivity
+ADDED from AndroidManifest.xml:118:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:118:58
+	android:name
+		ADDED from AndroidManifest.xml:118:13
+activity#org.andengine.examples.game.racer.RacerGameActivity
+ADDED from AndroidManifest.xml:119:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:119:58
+	android:name
+		ADDED from AndroidManifest.xml:119:13
+activity#org.andengine.examples.app.cityradar.CityRadarActivity
+ADDED from AndroidManifest.xml:121:3
+	android:configChanges
+		ADDED from AndroidManifest.xml:121:61
+	android:name
+		ADDED from AndroidManifest.xml:121:13

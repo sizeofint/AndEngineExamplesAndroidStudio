@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/andEngine" />
+            <option value="$PROJECT_DIR$/andEngineAugmentedRealityExtension" />
+            <option value="$PROJECT_DIR$/andEngineDebugDrawExtension" />
+            <option value="$PROJECT_DIR$/andEngineExamples" />
+            <option value="$PROJECT_DIR$/andEngineLiveWallpaperExtension" />
+            <option value="$PROJECT_DIR$/andEngineMODPlayerExtension" />
+            <option value="$PROJECT_DIR$/andEngineMultiplayerExtension" />
+            <option value="$PROJECT_DIR$/andEnginePhysicsBox2DExtension" />
+            <option value="$PROJECT_DIR$/andEngineSVGTextureRegionExtension" />
+            <option value="$PROJECT_DIR$/andEngineScriptingExtension" />
+            <option value="$PROJECT_DIR$/andEngineTMXTiledMapExtension" />
+            <option value="$PROJECT_DIR$/andEngineTexturePackerExtension" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

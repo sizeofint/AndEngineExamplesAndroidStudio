@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndEngineExamplesAndroidStudio.iml" filepath="$PROJECT_DIR$/AndEngineExamplesAndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngine/andEngine.iml" filepath="$PROJECT_DIR$/andEngine/andEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineAugmentedRealityExtension/andEngineAugmentedRealityExtension.iml" filepath="$PROJECT_DIR$/andEngineAugmentedRealityExtension/andEngineAugmentedRealityExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineDebugDrawExtension/andEngineDebugDrawExtension.iml" filepath="$PROJECT_DIR$/andEngineDebugDrawExtension/andEngineDebugDrawExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineExamples/andEngineExamples.iml" filepath="$PROJECT_DIR$/andEngineExamples/andEngineExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineLiveWallpaperExtension/andEngineLiveWallpaperExtension.iml" filepath="$PROJECT_DIR$/andEngineLiveWallpaperExtension/andEngineLiveWallpaperExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineMODPlayerExtension/andEngineMODPlayerExtension.iml" filepath="$PROJECT_DIR$/andEngineMODPlayerExtension/andEngineMODPlayerExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineMultiplayerExtension/andEngineMultiplayerExtension.iml" filepath="$PROJECT_DIR$/andEngineMultiplayerExtension/andEngineMultiplayerExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" filepath="$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineSVGTextureRegionExtension/andEngineSVGTextureRegionExtension.iml" filepath="$PROJECT_DIR$/andEngineSVGTextureRegionExtension/andEngineSVGTextureRegionExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" filepath="$PROJECT_DIR$/andEngineScriptingExtension/andEngineScriptingExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineTMXTiledMapExtension/andEngineTMXTiledMapExtension.iml" filepath="$PROJECT_DIR$/andEngineTMXTiledMapExtension/andEngineTMXTiledMapExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" filepath="$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" />
+    </modules>
+  </component>
+</project>
+

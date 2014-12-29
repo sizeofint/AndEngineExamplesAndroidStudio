@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.andengine.examples"
+    android:versionCode="46"
+    android:versionName="1.4.6" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="org.andengine.examples.launcher.ExampleLauncher"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.andengine.examples.util.BluetoothListDevicesActivity"
+            android:configChanges="orientation"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="org.andengine.examples.AnalogOnScreenControlExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.AnalogOnScreenControlsExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.AnimatedSpritesExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.AugmentedRealityExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.AugmentedRealityHorizonExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.AutoParallaxBackgroundExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.BitmapFontExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.BoundCameraExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.CanvasTextureCompositingExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.CardinalSplineMoveModifierExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ChangeableTextExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.CollisionDetectionExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ColorKeyTextureSourceDecoratorExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.CoordinateConversionExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.CustomFontExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.DigitalOnScreenControlExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.EaseFunctionExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.EntityModifierExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.EntityModifierIrregularExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ETC1TextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.HullAlgorithmExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ImageFormatsExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.LevelLoaderExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.LineExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.LoadTextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MenuExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ModPlayerExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MotionStreakExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MovingBallExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MultiplayerExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MultiplayerServerDiscoveryExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MultiplayerBluetoothExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MultiTouchExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.MusicExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ParticleSystemCoolExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ParticleSystemNexusExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ParticleSystemSimpleExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PathModifierExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PauseExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsCollisionFilteringExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsFixedStepExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsJumpExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsRemoveExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsRevoluteJointExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PhysicsMouseJointExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PinchZoomExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PVRCCZTextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PVRGZTextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.PVRTextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.RadialBlurExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.RectangleExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.RepeatingSpriteBackgroundExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.Rotation3DExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.RunnablePoolUpdateHandlerExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ScreenCaptureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SoundExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SplitScreenExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SpriteBatchExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SpriteExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SpriteRemoveExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.StrokeFontExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SubMenuExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.SVGTextureRegionExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TextExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TextBreakExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TextMenuExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TextureOptionsExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TexturePackerExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TMXTiledMapExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TickerTextExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.TouchDragExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.UnloadResourcesExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.UpdateTextureExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.XMLLayoutExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.ZoomExample"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.AnimationBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.AttachDetachBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.ParticleSystemBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.PhysicsBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.EntityModifierBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.SpriteBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.benchmark.TickerTextBenchmark"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.game.pong.PongGameActivity"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.game.snake.SnakeGameActivity"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.game.racer.RacerGameActivity"
+            android:configChanges="orientation" />
+        <activity
+            android:name="org.andengine.examples.app.cityradar.CityRadarActivity"
+            android:configChanges="orientation" />
+    </application>
+
+</manifest>

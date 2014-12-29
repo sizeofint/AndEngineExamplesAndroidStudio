@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineScriptingExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10f42c8552e123ff20cd8ed6074f2f33f96cee8e">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-c750661a6c41d3029698489cc0f1328095118566.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngine\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66195f1ab59cb7bcb3be638ef3728fefe3f00001">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-9c9f65c9817fef77dd961f2672b50a4cfd32da6b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineLiveWallpaperExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13c8bb583f526f4a306fa06c73765aabd4f77ff7">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-3f71ece34e1d2d0ee2edc0d328e5a0fbbe9e4d35.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineMultiplayerExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e247853c350974da68043cf0061767de6fbf11e7">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-a6a5a67bdcdbb7df72319eea32dfc8cccd3df213.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineDebugDrawExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dc4ac856da9780db902a45c57c1ab2d17ddac453">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-3b04e5974783a87b9542159e5802150ad8baa783.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineMODPlayerExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="178baaf376c28ebafceb2d0b742a87f36fb15998">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-1a00644cd808d76fc734908aeded5f0217dee198.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineTexturePackerExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1e9c5cc7dd46e0c7466edac5ddbde9ffd3ccad7">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-6d4b476dd4b648e7f554bc9717085a53491bc126.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineSVGTextureRegionExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d159202ecc7fe718cbac1e36f52aa8d3c9c388b8">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-390338a106af9d9189110209590cff2adce38955.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineAugmentedRealityExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b0f205e37003c852769d572c1c5d0d6b5719ca2">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-659caa9c9df3f022a6c3bfae2a74c04a55f5be70.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEngineTMXTiledMapExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea5a57f50b1fe1c09c041e9aec6a151fa9d1ce63">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-5cf22c61e3360e0e45044e6a15c18016b36b2a3b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\exploded-aar\AndEngineExamplesAndroidStudio\andEnginePhysicsBox2DExtension\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="19b38d178ab8d4349de9de646fb31b21922e1784">
+        <dex dex="D:\AndroidstudioProjects\AndEngineExamplesAndroidStudio\andEngineExamples\build\intermediates\pre-dexed\debug\classes-f7bee161b2c3b443e52f23a5ccf4b8da5b60acc5.jar" />
+    </item>
+
+</items>
